@@ -19,3 +19,5 @@ O principal objetivo deste modelo é estruturar as informações críticas de um
 O modelo é composto por quatro entidades principais: `CONTA`, `PAGAMENTO`, `PEDIDO` e `ENTREGA`.
 
 ### Diagrama (Visão Geral)
+
+![Diagrama do Modelo Relacional] (https://github.com/danielsystemanalytcs-stack/dberr_dio/blob/main/desafio_dio.png)
